@@ -7,3 +7,7 @@ I built a small relational dataset (customers, products, orders, order_items) an
 - `queries.sql` — queries for typical business questions
 - `analysis_results.md` — my takeaways
 - `erd.png` — quick ERD
+
+## Future Improvements
+- Add window functions
+- Build basic report export
